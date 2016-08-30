@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">PermissionManager</string>
+
+    <string name="warning_message">You can\'t use some features when you deny this permission.</string>
+    <string name="deny">Deny</string>
+    <string name="setting">Setting</string>
 </resources>
